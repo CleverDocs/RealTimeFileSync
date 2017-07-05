@@ -1,0 +1,23 @@
+{
+  "name": "realtime-file-sync",
+  "version": "0.0.1",
+  "description": "Realtime File Sync",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter nyan"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://ranaivoarivaojl@github.com/CleverDocs/RealTimeFileSync.git"
+  },
+  "keywords": [],
+  "author": "CleverDocs",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CleverDocs/RealTimeFileSync/issues"
+  },
+  "main": "./lib/realtimeFileSync.js",
+  "homepage": "https://github.com/CleverDocs/RealTimeFileSync#readme",
+  "dependencies": {
+  }
+}
