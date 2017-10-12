@@ -19,5 +19,6 @@
   "main": "./lib/realtimeFileSync.js",
   "homepage": "https://github.com/CleverDocs/RealTimeFileSync#readme",
   "dependencies": {
+    "mocha": "^1.7.1"
   }
 }
